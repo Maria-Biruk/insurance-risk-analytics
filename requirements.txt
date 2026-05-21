@@ -7,6 +7,6 @@ scipy
 statsmodels
 plotly
 missingno
-jupyter
+notebook
 pytest
 flake8
