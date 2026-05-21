@@ -16,7 +16,7 @@ mypy_extensions==1.1.0
 narwhals==2.21.2
 nest-asyncio==1.6.0
 networkx==3.6.1
-numpy==2.4.6
+numpy==2.1.0
 orjson==3.11.9
 packaging==26.2
 pandocfilters==1.5.1
@@ -38,7 +38,6 @@ pyparsing==3.3.2
 python-dotenv==1.2.2
 python-json-logger==4.1.0
 pytokens==0.4.1
-pywin32==311
 pywinpty==3.0.3
 PyYAML==6.0.3
 pyzmq==27.1.0
