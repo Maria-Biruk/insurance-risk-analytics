@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Data Version Control (DVC)
 
 This project uses DVC to track datasets and ensure reproducibility.
@@ -18,7 +17,9 @@ data/insurance_data.csv
 # cleaned data
 data/insurance_data_cleaned.csv
 ```
+
 =======
+
 # Insurance Risk Analytics
 
 End-to-end insurance risk analytics and predictive modeling project for AlphaCare Insurance Solutions (ACIS).
@@ -31,4 +32,3 @@ End-to-end insurance risk analytics and predictive modeling project for AlphaCar
 - Develop risk-based pricing insights
 
 ## Project Structure
->>>>>>> task-1
